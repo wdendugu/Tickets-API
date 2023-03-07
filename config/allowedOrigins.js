@@ -1,6 +1,5 @@
 const allowedOrigins = [
-    "http://localhost:3000",
-
+    "https://tickets-uk.onrender.com",
 ]
 
 module.exports = allowedOrigins
